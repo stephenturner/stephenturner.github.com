@@ -16,4 +16,4 @@ output:
   postcards::jolla
 ---
  
-I'm a bioinformatician and data scientist at Signature Science, LLC. in Charlottesville, Virginia. After getting an M.S. in statistics I completed a Ph.D. in human genetics and a postdoctoral fellowship in epidemiology. I founded and directed University of Virginia's Bioinformatics core from 2011-2019, and have been a science & technology advisor at Signature Science ever since. I love talking about genomics, bioinformatics, human identification, forensics, running, and homebrewing.
+I'm a bioinformatician and data scientist at Signature Science, LLC. in Charlottesville, Virginia. After getting an M.S. in statistics I completed a Ph.D. in human genetics and a postdoctoral fellowship in epidemiology. I founded and directed University of Virginia's Bioinformatics Core from 2011-2019, and have been a science & technology advisor at Signature Science ever since. I love talking about genomics, bioinformatics, human identification, forensics, running, and homebrewing.
