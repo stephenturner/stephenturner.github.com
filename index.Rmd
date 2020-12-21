@@ -1,0 +1,19 @@
+---
+title: "Stephen Turner"
+image: "img/sscolorcliped.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/turnersd/"
+  - label: Twitter
+    url: "https://twitter.com/strnr"
+  - label: GitHub
+    url: "https://github.com/stephenturner"
+  - label: Publications
+    url: "https://scholar.google.com/citations?user=-wkHYzMAAAAJ&hl=en"
+  - label: Email
+    url: "ma&#105;&#108;t&#111;&#58;vu%&#55;3&#116;&#101;&#37;7&#48;&#104;e&#37;6E&#64;gm&#37;61&#105;%6C&#46;%63&#111;m"
+output:
+  postcards::jolla
+---
+ 
+I'm a bioinformatician and data scientist at Signature Science, LLC. in Charlottesville, Virginia. After getting an M.S. in statistics I completed a Ph.D. in human genetics and a postdoctoral fellowship in epidemiology. I founded and directed University of Virginia's Bioinformatics core from 2011-2019, and have been a science & technology advisor at Signature Science ever since. I love talking about genomics, bioinformatics, human identification, forensics, running, and homebrewing.
