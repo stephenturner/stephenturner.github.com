@@ -1,0 +1,15 @@
+# OSX Stuff
+.DS_Store*
+._*
+.Trashes
+
+# Try not to accidentally commit credentials or other private stuff
+.private/
+.*.local
+.profile
+.bashrc
+.bash_profile
+
+# Other
+cv.doc
+cv.docx

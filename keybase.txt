@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/turner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://stephenturner.us
+  * I am turner (https://keybase.io/turner) on keybase.
+  * I have a public key with fingerprint 1700 A084 6537 FA09 D2CE  D188 3A2A 7CDA BFE4 2C57
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101aab856aeaff550ce8f1e06eb80de18166f60ade804a15d46090985819ad375980a",
+            "fingerprint": "1700a0846537fa09d2ced1883a2a7cdabfe42c57",
+            "host": "keybase.io",
+            "key_id": "3a2a7cdabfe42c57",
+            "kid": "0101aab856aeaff550ce8f1e06eb80de18166f60ade804a15d46090985819ad375980a",
+            "uid": "31f6410360d73372ae62f506d3091219",
+            "username": "turner"
+        },
+        "service": {
+            "hostname": "stephenturner.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1448479641,
+    "expire_in": 157680000,
+    "prev": "4ac0729887d749f7df7df136a80dc018ccb778dd6710aef37342b0e0f29af6e7",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJbSBZBFP5NTTItsZt0pc2HCJOZvc3sL3SBMAkjghKiy9/szlnd1P1/
+d/c3xYyuUkJQEZnQ9SmKKChBRIi0+w3CILsp1Usl3QitHjKa1XrrsWFgmHO+7zvf
+OZwb2amRzJRDvUtuLi1em5Vyv6s1GSkrG9/aIJlxXi9FG6RKGHmgioMfxCodLkUl
+hBFmzKSazoDZtqYhC6iNAelgUsQBU6zrto4YB4pUhjWu6shABtUoNhhXiGZQxKQC
+yXbccvASnuMGQhYThBiiqq4pxGbI4LIFHFOqMJkRizPTBlW2NCKIFXE/ZAhzJvOh
+0ImLmPjERuz9A/+ffSdH62BbVzFSdMSJohCZgS7bGtK5ggwsYyME+uC5rBoEOkh6
+LnhSY4EkYrWOBeFYwz7+5P0AEhXgjsIKk75gJ7x4ELfiVSJbEQSJaEgO6hMheiuY
+sT86MdNxuRikINSC5ztxV4pigbQCJxTGqkpVYginBRLUJRwPYk6I0IhOkThhGagV
+kiqzEJENSgknqmETHl6s6EyMxkKYWpZJCOVcJxgxsBWiqLKJANmywWwdwjH7UOPG
+hTYRPll52JRT7jLREkiN3dc2pEVSMiNj08eEGxbJHJfzd++ad2YMzz5QpGRFstK+
+tZf9Oh5MbZiUbfbMe77wwol9s0vWf71c0h6JnYcdR63N28f9fPw0523GrfxbY9Lv
+t6XDstZdJ3tn+PbyvJzOs0PdyZ7BZyu/Nw5XlUWnr1uQ2r+seuOB1PqKLT1uTd5A
+8dLXXfsnrzySc+7BzGZ0Yk4NLe0Dq6+0R/vc65V0dq054zUdK5jwye97PPhkVv+9
+Shstzr19Cu0urvpwuan15ZWWV4+ym6vdVVH36eo91zd/qdTyOyfdeVNe3T6Ue/h8
+ycEVu18Vtu162PL6xceii12X8jqm0b2k8OHFCzWzvNLEj4Ftd/fUTZz7ru74x02N
+TV+vdgzM51P6F5W+P/0b2kU/+Q==
+=Acxk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/turner
+
+==================================================================
